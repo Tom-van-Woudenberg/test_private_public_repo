@@ -2,3 +2,6 @@
 temp
 
 change during private period
+
+Change during public period 
+
