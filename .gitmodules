@@ -1,0 +1,3 @@
+[submodule "weblab_sympy_LaTeX"]
+	path = weblab_sympy_LaTeX
+	url = https://github.com/Tom-van-Woudenberg/weblab_sympy_LaTeX
